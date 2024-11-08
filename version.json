@@ -1,0 +1,9 @@
+{
+   "bundles":[
+      {
+        "names": "model",
+        "version": "1.0",
+        "url": "https://raw.githubusercontent.com/KhaosOwO/your-repo/main/AssetBundles/mybundle"
+      }
+   ]
+}
