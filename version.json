@@ -1,7 +1,7 @@
 {
    "bundles":[
       {
-        "names": "model",
+        "name": "model",
         "version": "1.0",
         "url": "https://raw.githubusercontent.com/KhaosOwO/Lab5/refs/heads/main/model"
       }
